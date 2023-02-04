@@ -1,11 +1,6 @@
 # Bot Whatsapp
 
-## Don't Forget Follow [Tiktok](https://www.tiktok.com/@try_catch_), [Instagram](https://www.instagram.com/try.catch.developer/) and [Youtube](https://www.youtube.com/c/TryCatchDev)
-
-# [Watch it on YouTube](https://www.youtube.com/watch?v=p0g8qAFgOLA)
-
-![Preview](/demo/demo1.jpeg)
-
+## Don't Forget Follow [Instagram](https://instagram.com/roycuy?igshid=YmMyMTA2M2Y=)  
 ## How to run project?
 - Change file `config.js`
 - Get API_KEY_RM_BG RemoveBg [Here](https://www.remove.bg/api#api-reference)
