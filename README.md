@@ -1,6 +1,6 @@
 # Bot Whatsapp
 
-## Don't Forget Follow [Instagram](https://instagram.com/roycuy?igshid=YmMyMTA2M2Y=)  
+## Don't Forget Follow [Instagram](https://instagram.com/roycuy/)  
 ## How to run project?
 - Change file `config.js`
 - Get API_KEY_RM_BG RemoveBg [Here](https://www.remove.bg/api#api-reference)
