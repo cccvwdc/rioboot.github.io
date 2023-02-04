@@ -1,4 +1,4 @@
-# Bot Whatsapp
+# Bot Whatsapp By RiO
 
 ## Don't Forget Follow [Instagram](https://instagram.com/roycuy/)  
 ## How to run project?
